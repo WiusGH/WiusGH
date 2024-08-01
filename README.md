@@ -1,6 +1,24 @@
- - 👋 Hi, I’m Wilsconidel but you can call me Wius. I'm not used to using social media so you may not know much about me unless you talk to me. I'm an easy going person who doesn't really
-   like leaving home at all.
-- 👀 I’m interested in airsoft and enduro, I'm not into music because I prefer silent environments.
-- 🌱 I’m currently learning Python, Javascript and Java.
-- 💞️ I’m looking to collaborate on a big project that is used by everyone worldwide.
-- 📫 You can mail me or text me via Whatapp / wius93@gmail.com - +56 9 3544 8591
+# Hola, me llamo Wilsconidel pero puedes decirme Wius 👋
+
+Me fascinan los idiomas y la programación; soy trilingüe (inglés e italiano) y soy desarrollador fullstack. ⭐
+
+## Lenguajes, frameworks y tecnologías:
+- HTML5
+- CSS3
+- Javascript
+- Typescript
+- Python
+- Flask
+- React
+- Java
+- Git
+- MySQL
+- MongoDB
+
+## Mis proyectos:
+- **Cerrajería Alex**: [https://www.cerrajerialex.cl/](https://www.cerrajerialex.cl/)
+- **PlayDOM**: [https://s15-25.onrender.com/](https://s15-25.onrender.com/)
+- **Huellitas**: [https://huellitas-ivory.vercel.app/](https://huellitas-ivory.vercel.app/)
+
+🔗 **LinkedIn**: [https://www.linkedin.com/in/wius/](https://www.linkedin.com/in/wius/)
+
